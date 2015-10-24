@@ -911,8 +911,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 4,
