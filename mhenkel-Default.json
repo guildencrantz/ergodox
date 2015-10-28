@@ -1,12 +1,12 @@
 {
     "header": {
-        "Author": "HaaTa (Jacob Alexander) 2015",
+        "Author": "Matt Henkel (2015)",
         "Base": "Blank",
         "Date": "2015-09-12",
         "Generator": "KIICONF 0.2",
         "KLL": "0.3c",
         "Layout": "Default",
-        "Name": "MDErgo1",
+        "Name": "mhenkel",
         "Version": "0.1"
     },
     "matrix": [
