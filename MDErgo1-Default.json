@@ -420,8 +420,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "INSERT",
+                    "label": "INS"
                 }
             },
             "w": 4,
@@ -1018,8 +1018,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
