@@ -420,8 +420,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             },
             "w": 4,
@@ -467,8 +467,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 },
                 "1": {
                     "key": "PREV LAYER",
@@ -1018,8 +1018,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             },
             "w": 4,
@@ -1044,8 +1044,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 4,
@@ -1076,6 +1076,10 @@
                 "0": {
                     "key": "RALT",
                     "label": "RALT"
+                },
+                "2": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
@@ -1138,8 +1142,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
